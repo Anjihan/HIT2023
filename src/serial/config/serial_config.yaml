@@ -1,0 +1,3 @@
+# config/serial_config.yaml
+default_baudrate: 115200
+default_port: /dev/ttyUSB0
